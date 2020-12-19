@@ -1,6 +1,6 @@
-# whatsappclone
+# whatsapp clone
 
-A new Flutter application.
+A Whatsapp clone UI Flutter application.
 
 ## Getting Started
 
